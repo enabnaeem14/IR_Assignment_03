@@ -1,0 +1,11 @@
+python-dotenv
+kaggle
+pandas
+numpy
+scikit-learn
+nltk
+rank-bm25
+joblib
+tqdm
+pyarrow
+faiss-cpu

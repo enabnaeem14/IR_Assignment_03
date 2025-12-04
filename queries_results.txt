@@ -1,0 +1,297 @@
+python src/search.py --query "political corruption scandal" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=1369 | score=6.2837 | title=ICC launches corruption probe on international 
+rank=2 | doc_id=1051 | score=5.3537 | title=Platini withdraws candidacy for FIFA presidency
+rank=3 | doc_id=1054 | score=5.1330 | title=FIFA panel tells Blatter Platini why they were banned
+rank=4 | doc_id=2513 | score=5.0002 | title=Panama needs new anti corruption laws combat tax dodger
+rank=5 | doc_id=1806 | score=4.9281 | title=Exclusive Brazil investigating possible corruption at Olympic venu
+rank=6 | doc_id=1266 | score=4.8011 | title=Blatter says wont back any candidate in FIFA presidential electi
+rank=7 | doc_id=969 | score=4.7437 | title=Spain proposes former minister linked Panama Papers World B
+rank=8 | doc_id=1998 | score=4.4706 | title=Pakistan tell Amir to ignore crowd taunts in England
+rank=9 | doc_id=1354 | score=4.4160 | title=2026 World Cup bid must be bullet proof says Infanti
+rank=10 | doc_id=2616 | score=4.2427 | title=WTO 1 trillion global trade treaty
+-----------------------------------------------------------------------------------------
+python src/search.py --query "economic inflation in pakistan" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=656 | score=4.9726 | title=Pakistan central bank cuts interest rates growth lag
+rank=2 | doc_id=287 | score=4.8055 | title=state bank announces monetary policy
+rank=3 | doc_id=169 | score=4.5425 | title=economic growth was 4.2 percent economic survey 2014 15
+rank=4 | doc_id=81 | score=4.4836 | title=further cut in sbp policy rate expected
+rank=5 | doc_id=453 | score=4.2230 | title=Pakistan Jan inflation rate rises to 332
+rank=6 | doc_id=2521 | score=4.1927 | title=State Bank maintains main policy interest rate 575 per
+rank=7 | doc_id=359 | score=4.0733 | title=sbp keeps policy rate unchanged at 6
+rank=8 | doc_id=2575 | score=3.9446 | title=Pakistan inflation eases 370 pct December
+rank=9 | doc_id=2432 | score=3.7941 | title=Pakistan inflation rises 388 pct September statistics bureau
+rank=10 | doc_id=556 | score=3.7812 | title=SBP keeps policy rate unchanged at 6
+----------------------------------------------------------------------------------------
+python src/search.py --query "terrorist attack on security forces" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=2297 | score=6.6097 | title=Brazil arrests 10 for amateur terror plot against Olympi
+rank=2 | doc_id=1553 | score=6.4987 | title=France beef up security at stadium for Russia soccer 
+rank=3 | doc_id=2282 | score=6.4417 | title=Brazil probes Olympics threats after group backs Islamic S
+rank=4 | doc_id=1927 | score=6.3753 | title=Euro 2016 kicks off in France despite strikes and terror thr
+rank=5 | doc_id=2139 | score=5.9861 | title=Pakistan hopes to stage final of 2nd edition of PSL at 
+rank=6 | doc_id=417 | score=5.8380 | title=SBP freezes bank accounts of Rs1 bn over terror funding charg
+rank=7 | doc_id=1362 | score=5.5955 | title=World T20 Pakistan security team to visit India on Monday
+rank=8 | doc_id=1765 | score=5.5360 | title=Bright chances of international cricket in Pakistan CM Balochi
+rank=9 | doc_id=1372 | score=5.5259 | title=Pakistan should not play Dharamsala T20 Imran K
+rank=10 | doc_id=1404 | score=5.1091 | title=T20 WC India assures full security to Pakistan 
+---------------------------------------------------------------------------------------------
+python src/search.py --query "cricket world cup match" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=1312 | score=4.2003 | title=Asia Cups biggest match would be played between Pakistan India today
+rank=2 | doc_id=1696 | score=3.9024 | title=Pakistan pushed out of Top 8 in ODI Ranking
+rank=3 | doc_id=1347 | score=3.8234 | title=Poor performance in Asia Cup Fact finding committee formed
+rank=4 | doc_id=1333 | score=3.8152 | title=Mani wants PCB to pull out of their World T20 match against Indi
+rank=5 | doc_id=1353 | score=3.8108 | title=In case of security risk Pakistan should opt out of WT20 Wasi
+rank=6 | doc_id=1329 | score=3.7729 | title=Indo Pak match at Dharamsala will not be allowed CM HP
+rank=7 | doc_id=1865 | score=3.7708 | title=Wasim Akram celebrates 50th birthday cricket Paki
+rank=8 | doc_id=1434 | score=3.7627 | title=NZealand await spin trial in World T20 opener against Indi
+rank=9 | doc_id=2369 | score=3.6197 | title=Lehmann extends contract Australia coach 2019
+rank=10 | doc_id=1652 | score=3.5983 | title=Ahmed Shehzad Pakistan Cricket Younis K
+---------------------------------------------------------------------------------------------
+python src/search.py --query "education policy reforms" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=472 | score=5.7361 | title=Steps afoot to raise GDP level to 7 pc Ishaq Dar
+rank=2 | doc_id=459 | score=5.6714 | title=WB president for Pakistan to invest in people to boost economy
+rank=3 | doc_id=2463 | score=5.6405 | title=IMF felicitates Pakistan completing economic reforms packag
+rank=4 | doc_id=961 | score=5.4649 | title=Sindh CM Murad Ali Shah World Bank finance Karachi mega proj
+rank=5 | doc_id=2605 | score=5.3003 | title=PML N govt turned around Pakistans economy in 3 years PM
+rank=6 | doc_id=736 | score=5.1464 | title=IMF sees US economy in good shape too many in poverty
+rank=7 | doc_id=598 | score=4.6635 | title=WB approves 1 billion to support economic reforms in Paki
+rank=8 | doc_id=596 | score=4.4171 | title=World Bank approves 1 billion for Paki
+rank=9 | doc_id=737 | score=4.3477 | title=World Bank approves 102 bln Pak reforms disaster resili
+rank=10 | doc_id=754 | score=4.3363 | title=IMF praises Pakistans commitment fiscal consolidati
+----------------------------------------------------------------------------------------------
+python src/search.py --query "floods natural disaster pakistan" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=737 | score=8.7780 | title=World Bank approves 102 bln Pak reforms disaster resili
+rank=2 | doc_id=948 | score=5.9210 | title=Paris tourism lost 750 mln euros after
+rank=3 | doc_id=2543 | score=4.2104 | title=Trump vows to renegotiate trade d
+rank=4 | doc_id=1308 | score=3.8963 | title=Pakistan batting disaster in Dhaka fall for 83
+rank=5 | doc_id=169 | score=3.7315 | title=economic growth was 4.2 percent economic survey 2014 15
+rank=6 | doc_id=348 | score=3.7176 | title=pakistan finalises 15 year 16bn lng deal with qatar
+rank=7 | doc_id=325 | score=3.6429 | title=pakistan russia ink agreement to build karachi lahore gas pipeli
+rank=8 | doc_id=43 | score=3.5518 | title=pakistan wants early implementation of tapi project
+rank=9 | doc_id=91 | score=3.3988 | title=first qatar lng shipment reaches karachi por
+rank=10 | doc_id=2108 | score=3.3900 | title=Maradona urges Messi to stay with Argenti
+-----------------------------------------------------------------------------------------
+python src/search.py --query "stock market crash economy" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=204 | score=5.3164 | title=oil prices rise on china gr
+rank=2 | doc_id=424 | score=5.0152 | title=Oil moves away from 12 year lows as China shares ri
+rank=3 | doc_id=307 | score=4.9839 | title=asia markets rebound glencore surges after cr
+rank=4 | doc_id=224 | score=4.8266 | title=asian markets sink as shanghai falls further
+rank=5 | doc_id=622 | score=4.7170 | title=dollar dominance global currency
+rank=6 | doc_id=805 | score=4.6157 | title=Pakistan top emerging economy among South Asian markets AMC
+rank=7 | doc_id=260 | score=4.4094 | title=agreement signed to form pakistan stock exchang
+rank=8 | doc_id=2580 | score=4.3998 | title=Pakistan outperforms India in stock returns during last 16 year
+rank=9 | doc_id=2612 | score=4.3939 | title=Pakistan Stock Exchange crosses 50000 points first time history
+rank=10 | doc_id=722 | score=4.2534 | title=Pakistani stocks hit record MSCI upgrad
+------------------------------------------------------------------------------------------
+python src/search.py --query "prime minister foreign visit" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=115 | score=7.8747 | title=china offering pakistan huge financing chinese assistant foreign minister
+rank=2 | doc_id=2437 | score=7.6452 | title=PM for enhancing bilateral trade with Belarus upto 1 bln in 4 year
+rank=3 | doc_id=2479 | score=7.1748 | title=IMF MD writes letter to PM congratulates on completion of economic reform progr
+rank=4 | doc_id=2480 | score=6.9912 | title=Chinese companies intent to bring 3 bn investment to Paki
+rank=5 | doc_id=2603 | score=6.5953 | title=Alibaba group eyes Pakistan for e Commer
+rank=6 | doc_id=2590 | score=6.5578 | title=Xi to be first Chinese leader to attend Davos World Economic Foru
+rank=7 | doc_id=1000 | score=6.4248 | title=Pakistan Nepal for early finalization of FTA
+rank=8 | doc_id=475 | score=6.0132 | title=LNG import from Qatar to begin from March MD PSO
+rank=9 | doc_id=1362 | score=5.9643 | title=World T20 Pakistan security team to visit India on Monday
+rank=10 | doc_id=2655 | score=5.9574 | title=PM Nawaz proposes establishment of Pakistan Kuwait joint business counci
+------------------------------------------------------------------------------------------------
+python src/search.py --query "oil prices global market" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=41 | score=5.6200 | title=oil prices fall as iea predicts weak rebound
+rank=2 | doc_id=388 | score=5.4174 | title=Oil prices mixed in Asia ahead of Fed mov
+rank=3 | doc_id=520 | score=5.3131 | title=Oil prices stable as market seen bottoming but oversupply linger
+rank=4 | doc_id=12 | score=5.2935 | title=oil market rebounds on iea repor
+rank=5 | doc_id=350 | score=5.2520 | title=oil prices resume decline in asi
+rank=6 | doc_id=462 | score=5.1264 | title=IEA sees global oil glut worsening OPEC deal unlikely
+rank=7 | doc_id=61 | score=5.1118 | title=oil prices rebound slightly
+rank=8 | doc_id=440 | score=5.1090 | title=Oil slides to lowest since 2003 as Iran sanctions are lifted
+rank=9 | doc_id=4 | score=5.0995 | title=us oil prices slip below 50 a barr
+rank=10 | doc_id=78 | score=5.0773 | title=oil market drops on iea price warning
+
+------------------------------------------------------------------------------------------------
+python src/search.py --query "coronavirus vaccination update" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=1688 | score=4.8763 | title=Pakistan rise to third in Test rankings South Africa slip to six
+rank=2 | doc_id=1696 | score=4.6348 | title=Pakistan pushed out of Top 8 in ODI Ranking
+rank=3 | doc_id=218 | score=2.9832 | title=dollar takes breather after strong rally
+rank=4 | doc_id=862 | score=2.5984 | title=Pakistan ready walk right directions TPL M
+rank=5 | doc_id=930 | score=2.5984 | title=Pakistan ready walk right directions TPL M
+rank=6 | doc_id=1012 | score=2.4155 | title=Turkey suffers 38 visitor drop coup hits touri
+rank=7 | doc_id=810 | score=2.0647 | title=IMF urges key G20 countries spend gr
+rank=8 | doc_id=199 | score=1.9414 | title=imf lowers 2015 global growth forecast to 3.3%
+rank=9 | doc_id=2495 | score=1.9288 | title=World Bank praises Pak progress restoring macroeconomic stability
+rank=10 | doc_id=637 | score=1.8858 | title=problems G7 finance ministers world
+-----------------------------------------------------------------------------------------------
+python src/search.py --query "Technology startup funding" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=250 | score=7.6853 | title=investments heat up online news sector
+rank=2 | doc_id=924 | score=7.0988 | title=Arianna Huffington leave Huffington P
+rank=3 | doc_id=856 | score=7.0988 | title=Arianna Huffington leave Huffington P
+rank=4 | doc_id=890 | score=7.0988 | title=Arianna Huffington leave Huffington P
+rank=5 | doc_id=2691 | score=7.0153 | title=Google powered Startup Weekend energizing proud Pakistan driv
+rank=6 | doc_id=564 | score=5.4878 | title=US government worse than all major industries on cyber security repor
+rank=7 | doc_id=417 | score=4.6379 | title=SBP freezes bank accounts of Rs1 bn over terror funding charg
+rank=8 | doc_id=2663 | score=4.2881 | title=CPEC China approves huge infrastructure projects for Xinjiang
+rank=9 | doc_id=2681 | score=4.2881 | title=CPEC China approves huge infrastructure projects for Xinjiang
+rank=10 | doc_id=2539 | score=3.8746 | title=Trump claims 50 bn SoftBank investment due to his election wi
+(new_env) 
+---------------------------------------------------------------------------------------------
+python src/search.py --query "Cyber crime hacking case" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=739 | score=6.9136 | title=State Bank issues guidelines against cyber attacks Paki
+rank=2 | doc_id=564 | score=5.3312 | title=US government worse than all major industries on cyber security repor
+rank=3 | doc_id=634 | score=5.0791 | title=US bank defends fund transfer after Bangladesh hei
+rank=4 | doc_id=653 | score=4.9224 | title=Lacking new ideas G7 agree go your own way appr
+rank=5 | doc_id=2173 | score=4.2266 | title=Barcelona soccer star Messi sentenced to 21 months in pri
+rank=6 | doc_id=550 | score=4.0850 | title=Australian tax office probes hundreds for possible tax evasion after Panama 
+rank=7 | doc_id=521 | score=4.0141 | title=Bangladeshs bank governor resigns after 81 mn stolen in cyber hei
+rank=8 | doc_id=203 | score=3.4725 | title=euro lifts as hopes mount for greek crisis resoluti
+rank=9 | doc_id=1846 | score=3.2932 | title=Lionel Messi testifies in tax fraud tri
+rank=10 | doc_id=577 | score=3.1626 | title=Sargodha Cases for electricity defaulters forwarded to NAB
+----------------------------------------------------------------------------------------------
+python src/search.py --query "traffic accident casualities" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=2689 | score=7.9347 | title=Uber grounds self driving cars after accid
+rank=2 | doc_id=2671 | score=7.9347 | title=Uber grounds self driving cars after accid
+rank=3 | doc_id=983 | score=4.9015 | title=Global airport traffic 64 percent 2015 fastest rate 2010
+rank=4 | doc_id=2558 | score=3.8389 | title=Airbus seals deal with Iran for sale of 100 aircraf
+rank=5 | doc_id=561 | score=3.4301 | title=Gwadar port almost ready
+rank=6 | doc_id=1259 | score=3.1358 | title=Ajmal set for Pakistan rebirth after learning new acti
+rank=7 | doc_id=721 | score=2.8651 | title=Businessman held trying to sell Qadhafis dagger Turkey
+rank=8 | doc_id=926 | score=2.7963 | title=Dubai plane crash survivor hits 1m j
+rank=9 | doc_id=892 | score=2.7963 | title=Dubai plane crash survivor hits 1m j
+rank=10 | doc_id=858 | score=2.7963 | title=Dubai plane crash survivor hits 1m j
+
+-----------------------------------------------------------------------------------------------
+python src/search.py --query "supreme court verdict case" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=601 | score=7.8476 | title=Johnson Johnson ordered to pay 55 mln in talc powder tri
+rank=2 | doc_id=2264 | score=7.4768 | title=Indias top court bars ministers bureaucrats BCCI
+rank=3 | doc_id=1544 | score=7.3380 | title=Blade Runner Pistorius sentencing set for June 13 17
+rank=4 | doc_id=2173 | score=7.1517 | title=Barcelona soccer star Messi sentenced to 21 months in pri
+rank=5 | doc_id=925 | score=6.7413 | title=Swiss court backs Iran decades old oil row Isr
+rank=6 | doc_id=891 | score=6.7413 | title=Swiss court backs Iran decades old oil row Isr
+rank=7 | doc_id=857 | score=6.7413 | title=Swiss court backs Iran decades old oil row Isr
+rank=8 | doc_id=2320 | score=6.2241 | title=India wrestler Yadav says foul play behind failed dope
+rank=9 | doc_id=2172 | score=5.8154 | title=Pistorius defence team say will not appeal six year
+rank=10 | doc_id=412 | score=4.9940 | title=Effective anti corruption strategy yielded results NAB Chief
+
+------------------------------------------------------------------------------------------------
+python src/search.py --query "global warming climate change" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=426 | score=5.7282 | title=NA Special Committee on PIA to meet on Monday
+rank=2 | doc_id=387 | score=5.0230 | title=Oil plunge fuels run on energy firms as Asia stocks tumb
+rank=3 | doc_id=761 | score=4.8021 | title=World Bank approves 200 million credit Balochi
+rank=4 | doc_id=320 | score=4.4950 | title=water short pakistani farmers test less thirsty way to grow ri
+rank=5 | doc_id=2683 | score=4.0324 | title=World Bank announces 57 bln in financing for Afri
+rank=6 | doc_id=2665 | score=4.0324 | title=World Bank announces 57 bln in financing for Afri
+rank=7 | doc_id=2592 | score=4.0179 | title=World Bank revises Pakistans growth rate upward
+rank=8 | doc_id=1961 | score=3.8040 | title=Zimbabwe crumble to 126 after Sibanda fifty
+rank=9 | doc_id=639 | score=3.7444 | title=Norways wealth fund to sue Volkswagen over emissions scand
+rank=10 | doc_id=2613 | score=3.7435 | title=India signs oil reserves pact UAE
+-----------------------------------------------------------------------------------------
+
+python src/search.py --query "railway train service issues" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=83 | score=10.0378 | title=pay raise for railways employees on card
+rank=2 | doc_id=987 | score=9.9781 | title=PR losses controlled due to passenger friendly polici
+rank=3 | doc_id=205 | score=8.1024 | title=pr slashes fares by 30pc for all passenger trains on eid
+rank=4 | doc_id=124 | score=7.8953 | title=goods transport by cargo trains goes up 10 ti
+rank=5 | doc_id=2663 | score=6.7931 | title=CPEC China approves huge infrastructure projects for Xinjiang
+rank=6 | doc_id=2681 | score=6.7931 | title=CPEC China approves huge infrastructure projects for Xinjiang
+rank=7 | doc_id=2606 | score=6.3516 | title=First Silk Road freight train from China arrives in Lond
+rank=8 | doc_id=2577 | score=6.2449 | title=China begins freight train service to Lond
+rank=9 | doc_id=2611 | score=5.9706 | title=Pakistan Railways receives seven locomotives for coal transportati
+rank=10 | doc_id=661 | score=5.6186 | title=After long dispute London metro run night weekend
+-------------------------------------------------------------------------------------------
+
+python src/search.py --query "public health disease outbreak" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=1751 | score=8.3714 | title=Australia briefed Zika virus Windies tour
+rank=2 | doc_id=2023 | score=7.3553 | title=Rio declares financial emergency requests funding for Olympi
+rank=3 | doc_id=436 | score=5.7943 | title=Chipotle to shut outlets next month for food safety meeting
+rank=4 | doc_id=1884 | score=5.0777 | title=Muhammad Ali public funeral set for Louisville on Friday
+rank=5 | doc_id=1924 | score=4.3110 | title=All tickets for Ali memorial service handed ou
+rank=6 | doc_id=1668 | score=4.2082 | title=Publish my drug test results says Nad
+rank=7 | doc_id=519 | score=4.1673 | title=Tobacco off Saudi shelves amid price rise speculati
+rank=8 | doc_id=1948 | score=4.1524 | title=Best quotes from Ali memorial servi
+rank=9 | doc_id=759 | score=4.0872 | title=ADB approves 600m loan for Pakistan structural refor
+rank=10 | doc_id=365 | score=4.0412 | title=sponsored volta offers free battery inspection in three citi
+--------------------------------------------------------------------------------------------
+
+python src/search.py --query "business merger acquisition" --k 10
+
+
+=== Search Results ===
+rank=1 | doc_id=2508 | score=7.1722 | title=New law moved replace Companies Ordi
+rank=2 | doc_id=2498 | score=5.6605 | title=Pakistan to promote best global corporate practices Dar
+rank=3 | doc_id=2605 | score=4.8457 | title=PML N govt turned around Pakistans economy in 3 years PM
+rank=4 | doc_id=972 | score=4.7039 | title=Bahrains Al Baraka merge Pakistans Burj B
+rank=5 | doc_id=768 | score=4.4418 | title=Mobilink Warid merger transaction completed
+rank=6 | doc_id=2539 | score=4.1785 | title=Trump claims 50 bn SoftBank investment due to his election wi
+rank=7 | doc_id=87 | score=3.9138 | title=sbp announces monetary policy 13 year low interest r
+rank=8 | doc_id=112 | score=3.3280 | title=asia shares mostly up china data disappoi
+rank=9 | doc_id=2684 | score=3.0882 | title=For Turkish giant Arcelik Pakistan is among focus ar
+rank=10 | doc_id=2666 | score=3.0882 | title=For Turkish giant Arcelik Pakistan is among focus ar
+
+----------------------------------------------------------------------------------------------
+python src/search.py --query "child labour human rights case" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=1616 | score=5.5163 | title=Maria Sharapova still faces meldonium hearing says ITF
+rank=2 | doc_id=426 | score=5.2161 | title=NA Special Committee on PIA to meet on Monday
+rank=3 | doc_id=2648 | score=4.9078 | title=Fake Rs 2000 notes dispensed from ATM in Delhi
+rank=4 | doc_id=617 | score=4.7050 | title=Pakistan must speed up reform of energy sector World B
+rank=5 | doc_id=1160 | score=4.6960 | title=United set 146 to beat Zalmi in PSLs third
+rank=6 | doc_id=992 | score=3.8882 | title=Protesters rally across Germany against mega trade d
+rank=7 | doc_id=1697 | score=3.6402 | title=My place in football history is assured says Ronald
+rank=8 | doc_id=1900 | score=3.5877 | title=Football Spain prosecutors seek Neymar corruption tri
+rank=9 | doc_id=2193 | score=3.5827 | title=US sports stars call for end to gun vi
+rank=10 | doc_id=2584 | score=3.5775 | title=Sri Lanka tourism hits record 35 bn 2016
+
+----------------------------------------------------------------------------------------------
+
+python src/search.py --query "election campaign rally" --k 10
+
+=== Search Results ===
+rank=1 | doc_id=2489 | score=5.9015 | title=Trumps surprise wins rattle world mar
+rank=2 | doc_id=2511 | score=4.1909 | title=Asian shares on the defensive as US yields dollar ri
+rank=3 | doc_id=2565 | score=4.1891 | title=Santa Rally gifts record close to London 
+rank=4 | doc_id=2481 | score=3.9747 | title=Gold slips firm dollar US election concerns lifting demand
+rank=5 | doc_id=2493 | score=3.9727 | title=US companies react cautiously to Trump victory
+rank=6 | doc_id=2478 | score=3.9226 | title=Hillary Clinton Wall Street favorite enemy
+rank=7 | doc_id=2503 | score=3.7051 | title=Asia shares win reprieve as bond rout pauses for 
+rank=8 | doc_id=1306 | score=3.6823 | title=FIFA aims to start afresh with vote to replace Blatter
+rank=9 | doc_id=2539 | score=3.5704 | title=Trump claims 50 bn SoftBank investment due to his election wi
+rank=10 | doc_id=2483 | score=3.5574 | title=Dollar jumps Clinton gets eleventh hour election b
+
+---------------------------------------------------------------------------------------------------
+-------------------------Total 20 Queries Results-------------------------------------------------
+
+
+
+
